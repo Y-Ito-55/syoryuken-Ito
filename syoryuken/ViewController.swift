@@ -4,7 +4,6 @@
 //
 //  Created by Yumi Ito on 2023/08/28.
 //
-//
 
 import UIKit
 
